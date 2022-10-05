@@ -132,6 +132,11 @@ ul li a {
   text-align: center;
   font-weight: 400;
   letter-spacing: 2px;
+  transition: .25s;
+}
+
+ul li a:hover{
+  color: rgb(158, 158, 158);
 }
 
 .row {
