@@ -24,6 +24,15 @@ body {
   margin: 10px;
 }
 
+.right ul li a{
+  padding: 3px 8px;
+  border-radius: 10px;
+}
+
+.right ul li :hover{
+  background-color: #5a564d;
+}
+
 .header {
   margin-bottom: 5px;
 }
