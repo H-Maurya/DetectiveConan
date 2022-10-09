@@ -29,10 +29,6 @@ body {
   border-radius: 10px;
 }
 
-.right ul li :hover{
-  background-color: #5a564d;
-}
-
 .header {
   margin-bottom: 5px;
 }
@@ -82,7 +78,6 @@ body {
   color: #fff;
   text-align: center;
   font-weight: 600;
-  /* text-shadow: 2px 2px #ff0000; */
   letter-spacing: 2px;
   margin-bottom: 30px;
 }
@@ -94,8 +89,6 @@ body {
 
 .card {
   border-radius: 20px;
-  /* width: 600px;
-  text-align: left; */
   background-color: rgba(249, 246, 246, 0.401);
   padding: 10px;
   font-family: "Poppins", sans-serif;
@@ -153,7 +146,7 @@ ul li a {
 
 ul li a:hover{
   color: rgb(221, 173, 118);
-  text-shadow: 1px 0px 1px #000001, 0px 1px 1px #0f1011, 2px 1px 1px #000001, 1px 2px 1px #0f1011, 3px 2px 1px #000001, 2px 3px 1px #0f1011, 4px 3px 1px #000001, 3px 4px 1px #0f1011, 5px 4px 1px #000001, 4px 5px 1px #0f1011, 6px 5px 1px #000001, 5px 6px 1px #0f1011, 7px 6px 1px #000001;
+  text-shadow: 1px 0px 1px #000001, 0px 1px 1px #0f1011, 2px 1px 1px #000001, 1px 2px 1px #0f1011, 3px 2px 1px #000001, 2px 3px 1px #0f1011, 4px 3px 1px #000001;
 }
 
 .row {
